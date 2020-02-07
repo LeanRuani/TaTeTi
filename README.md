@@ -1,2 +1,2 @@
 # TaTeTi
-Java TaTeTi 2015
+Java TaTeTi
